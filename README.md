@@ -4,10 +4,11 @@
 -  How to reach me 
     1. [LinkedIn](https://www.linkedin.com/in/reynolds-william/)
     2. [Research Gate](https://www.researchgate.net/profile/William-Reynolds-6)
-    3. [My website](https://www.william-reynolds.com)
-
+   
 
 <!---
+ 3. [My website](https://www.william-reynolds.com)
+
 WilliamReynolds/WilliamReynolds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
