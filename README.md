@@ -1,6 +1,6 @@
 -  Hi, I’m @WilliamReynolds
 -  I’m interested in neuroimaging, modeling outcomes, machine learning, and data visualization.
--  I’m currently studying biomedical informatics at the University of Pittsburgh.
+-  I’m currently a Post Doctoral Researcher in the Department of Biomedical Informatics at the University of Pittsburgh.
 -  How to reach me 
     1. [LinkedIn](https://www.linkedin.com/in/reynolds-william/)
     2. [Research Gate](https://www.researchgate.net/profile/William-Reynolds-6)
